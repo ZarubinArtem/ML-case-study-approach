@@ -1,2 +1,3 @@
 # ML-case-study-approach
-Stuff from the course learning
+
+Take the course https://www.coursera.org/learn/ml-foundations and rewrite it to scikit
